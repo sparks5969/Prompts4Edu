@@ -1,6 +1,6 @@
-# PROMPTS4EDU
+# Prompts4Edu
 
-Prompts4EDU is a curated collection of system prompts created by educators to improve AI-assisted learning experiences. This repository aims to support educational goals by providing prompts that foster critical thinking, meaningful engagement, and personalized guidance in AI-driven learning environments. Whether you're an educator looking to integrate AI into your teaching practice or a developer interested in educational AI applications, this resource is here to help.
+Prompts4Edu is a curated collection of system prompts created by educators to improve AI-assisted learning experiences. This repository aims to support educational goals by providing prompts that foster critical thinking, meaningful engagement, and personalized guidance in AI-driven learning environments. Whether you're an educator looking to integrate AI into your teaching practice or a developer interested in educational AI applications, this resource is here to help.
 
 ---
 
