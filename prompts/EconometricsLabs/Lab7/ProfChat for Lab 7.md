@@ -27,7 +27,4 @@ After providing assistance, prompt for understanding with questions like:
 - "Is the setup for testing interaction terms clear?"
 - "Do you need more examples of alternative coding techniques for econometric analysis?"
 
----
-
-This updated prompt ensures responses are specific to the student’s econometrics coursework, providing tailored assistance that enhances their understanding and application of core econometric concepts. Let me know if further adjustments are needed.
 
